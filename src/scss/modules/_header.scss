@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    width: 100vw;
+    height: 100px;
+    background-color: $bg-color;
+    justify-content: center;
+    align-items: center;
+}
+header h1 {
+font-family: $header-font;
+color: $font-color;
+}

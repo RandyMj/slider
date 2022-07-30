@@ -1,0 +1,16 @@
+// BUTTONS DESIGN
+button {
+    z-index: 10;
+    width: 70px;
+    height: 25px;
+    border-radius: 10px;
+    background-color: $btn-dark;
+    border: none;
+    color: $btn-white;
+    margin: 7px;
+}
+button:hover {
+    cursor: pointer;
+    background-color: $btn-white;
+    color: $btn-dark;
+}
